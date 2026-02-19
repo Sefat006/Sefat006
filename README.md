@@ -1,109 +1,60 @@
-<h1 align="center">Hi there👋, This is Sefatur Rahman</h1>
-<h3 align="center">🚀 MERN Stack Developer | LAMP Stack Developer | Lifelong Learner</h3>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MongoDB+%7C+Express+%7C+React+%7C+Node;Laravel+%7C+Apache+%7C+MySQL+%7C+PHP;Building+Full-Stack+Web+Apps;Clean+Code+%26+Scalable+Architecture;Always+Learning+New+Technologies..."
-    alt="Typing SVG" 
-  />
-</p>
-
-###
 
 <div align="center">
+  <h1>👋 Hi, I'm Sefatur Rahman</h1>
+  <p><b>🚀 Aspiring Software Engineer | Full-Stack Developer | CS Student</b></p>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+Scalable+Full-Stack+Systems;Data+Structures+%26+Algorithms;MERN+%7C+LAMP+%7C+Next.js;Clean+Code+%26+Software+Architecture" alt="Typing SVG" />
+  </p>
+</div>
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo"/>
-  <img width="12"/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo"/>
-  <img width="12"/>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase logo"/>
-  <img width="12"/>
-  
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify logo"/>
-  <img width="12"/>
-  
-  <!-- Cloud / Extra -->
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo"/>
-  <img width="12"/>
-  
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,rust" height="60" alt="C/C++/Python/Go/Rust logos"/>
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/sefatur-rahman-b19857352/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/sefat0099"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&to=sefatur.rahman25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 </div>
 
 
+---
 
-###
+### 🔭 Professional Outlook
+- 🎓 **Education:** 3rd year Computer Science student focused on **Software Engineering principles**.
+- 🛠️ **Expertise:** Bridging the gap between **Frontend aesthetics** and **Backend performance**.
+- 🧠 **Focus:** Actively practicing **LeetCode** and studying **System Design** to build robust software.
+- 💼 **Goal:** Seeking a **Paid Internship** or **Junior Software Engineer** role where I can contribute to high-quality codebases.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,bootstrap&perline=9" alt="Frontend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,firebase&perline=8" alt="Backend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,vscode&perline=11" alt="Tools" />
+
 </div>
 
-###
+---
+
+### 📊 My GitHub Journey
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/Sefat006/Sefat006/output/snake.svg" alt="Snake animation" />
-
-###
+  <img src="https://github-readme-stats.vercel.app/api?username=Sefat006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sefat006&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sefat006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
+
