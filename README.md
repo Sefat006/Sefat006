@@ -23,7 +23,7 @@
 ---
 
 ### 🔭 Professional Outlook
-- 🎓 **Education:** 3rd year Computer Science student focused on **Software Engineering principles**.
+- 🎓 **Education:** Final year Computer Science student focused on **Software Engineering principles**.
 - 🛠️ **Expertise:** Bridging the gap between **Frontend aesthetics** and **Backend performance**.
 - 🧠 **Focus:** Actively practicing **LeetCode** and studying **System Design** to build robust software.
 - 💼 **Goal:** Seeking a **Paid Internship** or **Junior Software Engineer** role where I can contribute to high-quality codebases.
